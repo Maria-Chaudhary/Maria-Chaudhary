@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Maria Rauf 👋
 
-<!--
-**Maria-Chaudhary/Maria-Chaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Developer | NLP | Generative AI
 
-Here are some ideas to get you started:
+I'm a final-year BS Information Technology student passionate about Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building practical AI applications and exploring how intelligent systems can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Working on:** AI-powered applications and machine learning projects
+- 🌱 **Learning:** RAG, vector embeddings, and AI application development
+- 🤖 **Interests:** NLP, LLMs, Transformers, and Voice AI
+- 🎓 **Education:** BS Information Technology, MUST
+- 🤝 **Open to:** AI/ML internships, entry-level opportunities, and collaborative projects
+
+### 🛠️ Technical Skills
+
+**Languages:** Python, SQL, JavaScript
+
+**AI & Machine Learning:** Machine Learning, NLP, Transformers, LLMs, Prompt Engineering
+
+**AI Tools & Frameworks:** Hugging Face, Gradio, Groq API, OpenAI Whisper
+
+**Data & Backend:** Pandas, NumPy, Scikit-learn, Supabase
+
+**Other Technologies:** Flutter, Git, GitHub
+
+### 🚀 Featured Projects
+
+- **Voice AI Assistant:** A voice-enabled chatbot integrating speech recognition, AI-generated responses, and text-to-speech.
+- **ArXiv RAG Application:** A retrieval-augmented generation application for exploring research papers.
+- **Mortality Analysis – A Prototype:** A Flutter and Supabase application for mortality data management and analytics.
+- **Machine Learning Projects:** Predictive modeling and data analysis using Python and Scikit-learn.
+
+### 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- GitHub: [My GitHub Profile](YOUR_GITHUB_URL)
+
+I'm continuously learning, building, and improving my skills in AI and software development.

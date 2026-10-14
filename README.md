@@ -31,7 +31,7 @@ I'm a final-year BS Information Technology student passionate about Artificial I
 
 ### 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- GitHub: [My GitHub Profile](YOUR_GITHUB_URL)
+- LinkedIn: [https://www.linkedin.com/in/maria-rauf-925258279/?isSelfProfile=true](YOUR_LINKEDIN_URL)
+- GitHub: [https://github.com/Maria-Chaudhary/Maria-Chaudhary](YOUR_GITHUB_URL)
 
 I'm continuously learning, building, and improving my skills in AI and software development.

@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=190&section=header&text=Maria%20Rauf&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Developer%20%7C%20NLP%20%7C%20Generative%20AI&descAlignY=60&descSize=18" width="100%" alt="Maria Rauf banner"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Rauf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rauf-925258279/)
 [![GitHub](https://img.shields.io/badge/GitHub-Maria--Chaudhary-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-Chaudhary)
@@ -73,7 +72,7 @@ I'm a **final-year BS Information Technology student** at **MUST**, passionate a
 - Deployed on **Hugging Face Spaces**.
 
 `Python` `Whisper` `Groq` `LLaMA` `gTTS` `Gradio` `Hugging Face Spaces`
-[**View Repository →**](https://github.com/Maria-Chaudhary/voice-to-voice-ai-assistant)
+[**View Repository →**](https://github.com/Maria-Chaudhary/Voice-to-VoiceAI)
 
 ### 3. 🔊 Text-to-Speech (TTS) Application
 **Converts written text into natural spoken audio.**
@@ -81,7 +80,7 @@ I'm a **final-year BS Information Technology student** at **MUST**, passionate a
 - Part of my work on **Voice AI**, complementing the speech-to-text and LLM pipeline above.
 
 `Python` `gTTS` `Voice AI`
-[**View Repository →**](https://github.com/Maria-Chaudhary/text-to-speech)
+[**View Repository →**](https://github.com/Maria-Chaudhary/speech-to-text)
 
 ### 4. 📊 Mortality Analysis: A Prototype
 **A Flutter and Supabase application for mortality data collection, management, cleaning, and analytics.**
@@ -90,7 +89,7 @@ I'm a **final-year BS Information Technology student** at **MUST**, passionate a
 - Uses **synthetic data** for analysis and demonstration.
 
 `Flutter` `Dart` `Supabase` `K-Means` `Data Analytics`
-[**View Repository →**](https://github.com/Maria-Chaudhary/mortality-analysis)
+[**View Repository →**](https://github.com/Anmol-0774/Mortality-Analysis)
 
 ### 5. 🚢 Titanic Survival Prediction
 **A classic machine learning classification project predicting passenger survival.**
@@ -98,7 +97,7 @@ I'm a **final-year BS Information Technology student** at **MUST**, passionate a
 - Trained and evaluated classification models to predict survival outcomes.
 
 `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
-[**View Repository →**](https://github.com/Maria-Chaudhary/titanic-survival-prediction)
+[**View Repository →**](https://github.com/Maria-Chaudhary/titanic-eda)
 
 ### 6. 💪 FitTrack Mobile App
 **A mobile application focused on fitness tracking.**
@@ -106,7 +105,7 @@ I'm a **final-year BS Information Technology student** at **MUST**, passionate a
 - Designed to provide a convenient, user-friendly mobile experience.
 
 `Flutter` `Mobile Development`
-[**View Repository →**](https://github.com/Maria-Chaudhary/FitTrack)
+[**View Repository →**](https://github.com/Maria-Chaudhary/WellTrack)
 
 ---
 
